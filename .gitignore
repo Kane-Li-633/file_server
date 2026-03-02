@@ -1,0 +1,17 @@
+# Maven / target
+/target
+**/target/
+
+# IDE
+/.idea
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# uploaded files (runtime)
+uploaded-files/
